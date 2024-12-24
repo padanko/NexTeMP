@@ -7,7 +7,6 @@ mod define;
 fn main() {
 
     println!("TeMP v1.0.0");
-    println!("(C) Henojin group");
     println!("------------------------------");
 
     let mut make: bool = false;
