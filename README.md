@@ -16,7 +16,7 @@ Makeモードのコマンドについて解説します。<br>
   </tr>
   <tr>
     <td>makq</td>
-    <td>newq id "タイトル"</td>
+    <td>makq id "タイトル"</td>
     <td>クイズを作成します。</td>
     <td>makq test_quiz "ここはタイトル　テストクイズ"</td>
   </tr>
