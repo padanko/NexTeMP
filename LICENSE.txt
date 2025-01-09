@@ -1,6 +1,7 @@
 MIT License
 
 Copyright © 2024 Henojin
+Copyright © 2025 PaDaNKo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -25,4 +26,4 @@ SOFTWARE.
 
 regex - Copyright (c) The Rust Project Developers     Licensed under the MIT License. See LICENSE file for details.
 serde - Copyright (c) david tolnay                    Licensed under the MIT License. See LICENSE file for details.
-serde_json -  Copyright (c) david tolnay              Licensed under the MIT License. See LICENSE file for details.
+serde_json - Copyright (c) david tolnay               Licensed under the MIT License. See LICENSE file for details.
